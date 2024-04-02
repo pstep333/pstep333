@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @pstep333
+# 👋 Hi, I’m @QueckQueck
 
 ## About Me:
 - 👀 I’m interested in neural networks, blockchain and cryptocurrencies.
